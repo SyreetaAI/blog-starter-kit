@@ -1,6 +1,6 @@
 import Container from "./container";
 
-export function Footer() {
+export default function Footer() {
   return (
     <footer className="bg-neutral-50 border-t border-neutral-200">
       <Container>
