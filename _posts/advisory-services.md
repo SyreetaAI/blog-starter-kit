@@ -1,5 +1,5 @@
 ---
-title: 'The Syreeta.ai Advisory Framework'
+title: 'The <span style="color: #0F172A; font-weight: bold;">Syreeta</span><span style="color: #F97316; font-weight: bold;">.ai</span> Advisory Framework'
 excerpt: 'Spend Intelligence Meets Advisory.'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2026-03-20'
@@ -12,7 +12,7 @@ ogImage:
 
 ## **The Architecture of Modern Procurement**
 
-Syreeta.ai provides the architectural blueprint for organizations to move from reactive buying to **proactive, agentic governance.** With a track record of managing **multi-billion global spend portfolios**, I partner with organizations to bridge the gap between legacy systems and autonomous execution.
+<span style="color: #0F172A; font-weight: bold;">Syreeta</span><span style="color: #F97316; font-weight: bold;">.ai</span> provides the architectural blueprint for organizations to move from reactive buying to **proactive, agentic governance.** With a track record of managing **multi-billion global spend portfolios**, I partner with organizations to bridge the gap between legacy systems and autonomous execution.
 
 ---
 
