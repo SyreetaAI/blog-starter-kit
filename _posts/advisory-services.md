@@ -5,14 +5,14 @@ coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2026-03-20'
 author:
   name: Syreeta Craig
-  picture: '/assets/blog/authors/HappyHealthyWealthyLoved.jpg'
+  picture: '/assets/blog/authors/syreeta.jpg'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
 
 ## **The Architecture of Modern Procurement**
 
-<span style="color: #0F172A; font-weight: bold;">Syreeta</span><span style="color: #F97316; font-weight: bold;">.ai</span> provides the architectural blueprint for organizations to move from reactive buying to **proactive, agentic governance.** With a track record of managing **multi-billion global spend portfolios**, I partner with organizations to bridge the gap between legacy systems and autonomous execution.
+<b style="color: #0F172A;">Syreeta</b><b style="color: #F97316;">.ai</b> provides the architectural blueprint for organizations to move from reactive buying to **proactive, agentic governance.** With a track record of managing **multi-billion global spend portfolios**, I partner with organizations to bridge the gap between legacy systems and autonomous execution.
 
 ---
 
@@ -39,4 +39,4 @@ Data clarity drives strategic momentum. Your data holds the roadmap to margin ex
 ---
 
 ### **Let Me Advise Your Strategy**
-Syreeta.ai - I use AI-driven protocols to surface latent spend leakage, followed by strategic procurement advisory to architect a resilient, EBITDA-positive procurement ecosystem.
+<b style="color: #0F172A;">Syreeta</b><b style="color: #F97316;">.ai</b> - I use AI-driven protocols to surface latent spend leakage, followed by strategic procurement advisory to architect a resilient, EBITDA-positive procurement ecosystem.
