@@ -29,3 +29,14 @@ I design Strategic Procurement Center of Excellence driven systems that automate
 
 ### Pillar III: High-Fidelity Data Architecture
 Beyond the historical view provided by standard ERPs, Forensic Capital Integrity reveals a strategic roadmap of high-yield opportunities embedded within your operations.
+* **Spend Visibility:** Advanced Data driven analytics covering your organization’s buying behavior.
+* **Source-to-Pay (S2P) Optimization:** Streamlining the procurement technical stack (modern and legacy) for efficiency.
+* **Predictive Insights:** Moving from retrospective reporting to forward-leaning spend intelligence.
+
+---
+
+<div style="text-align: center; margin-top: 30px; margin-bottom: 20px;">
+  <div style="font-size: 1.75rem; font-weight: 900;">
+    <span style="color: #0F172A;">Spend Intelligence</span> <span style="color: #F97316;">With Intent</span>
+  </div>
+</div>
