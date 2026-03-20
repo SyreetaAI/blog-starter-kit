@@ -29,8 +29,8 @@ Designing the next generation of Sourcing Centers of Excellence (COE). I design 
 * **Change Leadership:** Prosci-certified methodologies to ensure successful adoption of new digital frameworks.
 
 ### **Pillar III: High-Fidelity Data Architecture**
-Data clarity drives strategic momentum. Your data holds the roadmap to margin expansion. While standard ERPs and BI tools record your history, Forensic Capital Integrity reveals your strategic iniative roadmap of specific, high-yield opportunities already living within your ecosystem.
-* **Spend Visibility:** Advanced Data driven analytics covering your organizations buying behavior.
+Data clarity drives strategic momentum. Your data holds the roadmap to margin expansion. While standard ERPs and BI tools record your history, Forensic Capital Integrity reveals your strategic initiative roadmap of specific, high-yield opportunities already living within your ecosystem.
+* **Spend Visibility:** Advanced Data driven analytics covering your organization’s buying behavior.
 * **Source-to-Pay (S2P) Optimization:** Streamlining the procurement technical stack (modern and legacy) for efficiency.
 * **Predictive Insights:** Moving from retrospective reporting to forward-leaning spend intelligence.
 
@@ -39,6 +39,6 @@ Data clarity drives strategic momentum. Your data holds the roadmap to margin ex
 ---
 
 ### **Let Me Advise Your Strategy**
-Syreeta.ai - I levearage AI-driven protocols to surface latent spend leakage, followed by strategic procurement advisory to architect a resilient, EBITDA-positive procurement ecosystem.
+Syreeta.ai - I use AI-driven protocols to surface latent spend leakage, followed by strategic procurement advisory to architect a resilient, EBITDA-positive procurement ecosystem.
 
-**[Connect on LinkedIn](https://linkedin.com/in/syreetacraig)** | **[Schedule a Strategy Audit](mailto:me@gsyreeta.ai)**
+**[Connect on LinkedIn](https://linkedin.com/in/syreetacraig)** | **[Schedule a Strategy Audit](mailto:me@syreeta.ai)**
