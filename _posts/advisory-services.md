@@ -9,11 +9,17 @@ author:
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
-<b style="color: #0F172A;">Protect Your Margin. </b><b style="color: #F97316;">Automate Your Governance</b>
+<h2 style="color: #0F172A; margin-top: 20px; margin-bottom: 5px;">
+  Syreeta<span style="color: #F97316;">.ai</span> Advisory Framework
+</h2>
 
-<b style="color: #0F172A;">Syreeta</b><b style="color: #F97316;">.ai</b> provides the architectural blueprint for organizations to move from reactive buying to **proactive, agentic governance.** With a track record of managing **multi-billion global spend portfolios**, I partner with organizations to bridge the gap between legacy systems and autonomous execution.
+<h3 style="color: #0F172A; margin-bottom: 25px; border: none; text-decoration: none;">
+  Protect Your Margin. <span style="color: #F97316;">Automate Your Governance.</span>
+</h3>
 
-<div style="margin-top: -20px;">
+<p style="color: #0F172A; font-size: 1.125rem;">
+  <strong>Syreeta<span style="color: #F97316;">.ai</span></strong> provides the architectural blueprint for organizations to move from reactive buying to <strong>proactive, agentic governance.</strong> With a track record of managing </strong>multi-billion global spend portfolios</strong>, I partner with organizations to bridge the gap between legacy systems and autonomous execution.
+</p>
 
 ### Pillar I: Agentic Governance
 I empower organizations to move from manual, high-friction intake to autonomous, policy-grounded procurement. By embedding AI-enablement into the procurement core, this will ensure 100% compliance and eliminate spend leakage.
