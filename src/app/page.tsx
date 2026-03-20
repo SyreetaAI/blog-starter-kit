@@ -1,29 +1,32 @@
 import Container from "@/app/_components/container";
-import { HeroPost } from "@/app/_components/hero-post";
 import { Intro } from "@/app/_components/intro";
-import { MoreStories } from "@/app/_components/more-stories";
+import { PostBody } from "@/app/_components/post-body";
 import { getAllPosts } from "@/lib/api";
+import { notFound } from "next/navigation";
+import markdownToHtml from "@/lib/markdownToHtml";
 
-export default function Index() {
+export default async function Index() {
   const allPosts = getAllPosts();
+  
+  // This finds your specific advisory post
+  const post = allPosts.find((p) => p.slug === "advisory-services");
 
-  const heroPost = allPosts[0];
+  if (!post) {
+    return notFound();
+  }
 
-  const morePosts = allPosts.slice(1);
+  const content = await markdownToHtml(post.content || "");
 
   return (
     <main>
       <Container>
         <Intro />
-        <HeroPost
-          title={heroPost.title}
-          coverImage={heroPost.coverImage}
-          date={heroPost.date}
-          author={heroPost.author}
-          slug={heroPost.slug}
-          excerpt={heroPost.excerpt}
-        />
-        {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+        <article className="mb-32">
+          <h1 className="text-4xl md:text-6xl font-bold tracking-tighter leading-tight mb-12 text-center md:text-left">
+            {post.title}
+          </h1>
+          <PostBody content={content} />
+        </article>
       </Container>
     </main>
   );
