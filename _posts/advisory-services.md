@@ -1,5 +1,5 @@
 ---
-title: 'Syreeta.ai Advisory Framework'
+title: 'Syreeta<span style="color: #F97316;">.ai</span> Advisory Framework'
 excerpt: 'Spend Intelligence with Intent'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2026-03-20'
@@ -9,7 +9,7 @@ author:
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
-<b style="color: #0F172A;">Protect Your Margin. </b><b style="color: #F97316;">Automate Your Governance</b>
+## <b style="color: #0F172A;">Protect Your Margin. </b><b style="color: #F97316;">Automate Your Governance</b>
 
 <b style="color: #0F172A;">Syreeta</b><b style="color: #F97316;">.ai</b> provides the architectural blueprint for organizations to move from reactive buying to **proactive, agentic governance.** With a track record of managing **multi-billion global spend portfolios**, I partner with organizations to bridge the gap between legacy systems and autonomous execution.
 
