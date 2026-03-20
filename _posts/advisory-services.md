@@ -10,7 +10,12 @@ ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
 
-## **Spend Intelligence with Intent**
+## <span style="color: #0F172A;">Syreeta</span><span style="color: #F97316;">.ai</span> Advisory Framework
+
+<div style="font-size: 1.25rem; font-weight: 800; margin-top: -10px; margin-bottom: 30px;">
+  <span style="color: #0F172A;">Protect Your Margin.</span> 
+  <span style="color: #F97316;">Automate Your Governance.</span>
+</div>
 
 **Syreeta.ai** provides the architectural blueprint for organizations to move from reactive buying to **proactive, agentic governance.** With a track record of managing **multi-billion global spend portfolios**, I partner with organizations to bridge the gap between legacy systems and autonomous execution.
 
@@ -41,7 +46,7 @@ Beyond the historical view provided by standard ERPs, Forensic Capital Integrity
 * **Predictive Insights:** Moving from retrospective reporting to forward-leaning spend intelligence.
 
 ---
-### **Protect Your Margin. Automate Your Governance.**
+### **Spend Intelligence With Intent.**
 <div style="background: #0F172A; padding: 40px; border-radius: 12px; text-align: center; margin-top: 50px; border: 1px solid #F97316;">
   <h3 style="color: white; margin-bottom: 20px; text-decoration: none;">Secure Your Capital Integrity.</h3>
   <p style="color: #94A3B8; margin-bottom: 30px;">For finance and procurement leaders ready to convert hidden spend leakage into measurable EBITDA recovery through agentic protocols.</p>
