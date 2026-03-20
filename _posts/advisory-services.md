@@ -5,7 +5,7 @@ coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2026-03-20'
 author:
   name: Syreeta Craig
-  picture: 'https://media.licdn.com/dms/image/v2/D4E03AQE-https://www.linkedin.com/in/syreetacraig/'
+  picture: '/assets/blog/authors/HappyHealthyWealthyLoved.jpg'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
