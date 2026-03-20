@@ -2,7 +2,7 @@
 title: 'The Syreeta.ai Advisory Framework'
 excerpt: 'Spend Intelligence Meets Advisory.'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
-date: '2026-03-20T05:35:07.322Z'
+date: '2026-03-20'
 author:
   name: Syreeta Craig
   picture: '/assets/blog/authors/syreeta.jpg'
