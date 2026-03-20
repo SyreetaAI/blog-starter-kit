@@ -3,49 +3,73 @@
   color: #0F172A; /* Oxford Navy */
 }
 
+/* Paragraph spacing - tightened for executive summary feel */
 .markdown p {
-  @apply mb-6;
+  @apply mb-4;
+  margin-top: 0.25rem;
 }
 
-/* Main Title Style (No Underline) */
+/* Main Title (Syreeta.ai Advisory Framework) */
 .markdown h2 {
-  @apply font-bold mt-8 mb-2 text-3xl flex items-center gap-1;
+  @apply font-bold mt-4 mb-1 text-3xl;
   color: #0F172A;
-  text-decoration: none;
+  text-decoration: none !important;
+  line-height: 1.2;
 }
 
-/* Pillar Titles Style (With Orange Underline) */
+/* Pillar Titles (Underlined) */
 .markdown h3 {
-  @apply text-2xl mt-12 mb-4 font-bold inline-block;
+  @apply text-2xl font-bold inline-block;
+  margin-top: 1.5rem; /* Reduced to bring pillars closer */
+  margin-bottom: 0.5rem;
   color: #0F172A;
   text-decoration: underline;
   text-decoration-color: #F97316;
   text-underline-offset: 8px;
 }
 
-/* Automatic Orange Diamond Bullets */
+/* The Automatic Orange Diamond Bullets */
 .markdown ul {
-  @apply my-6 space-y-3;
+  @apply space-y-2;
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
   list-style: none;
   padding-left: 0;
 }
 
 .markdown li {
   @apply relative pl-7;
-  line-height: 1.6;
+  line-height: 1.5;
 }
 
 .markdown li::before {
   content: "◆";
   @apply absolute left-0 font-bold;
-  color: #F97316;
+  color: #F97316; /* Vivid Orange */
 }
 
+/* Bold Text Branding */
 .markdown strong {
   @apply font-extrabold;
   color: #0F172A;
 }
 
+/* Thin horizontal separator */
 .markdown hr {
-  @apply my-10 border-t border-slate-200;
+  @apply my-8 border-t border-slate-200;
+}
+
+/* Center-aligned Spend Intelligence footer text fix */
+.markdown h3[style*="text-align: center"] {
+  text-decoration: none !important;
+  display: block;
+  width: 100%;
+  margin-top: 2rem;
+}
+
+/* Blockquote for high-impact callouts */
+.markdown blockquote {
+  @apply pl-6 italic border-l-4 my-6;
+  border-color: #F97316;
+  color: #64748B;
 }
