@@ -1,12 +1,21 @@
-/* Makes all H2 titles in the blog Underlined and Orange */
-.markdown h2 {
-  text-decoration: underline;
-  color: #F97316;
-  text-underline-offset: 8px; /* Adds professional spacing */
+/* This restores the professional look to your blog post */
+.markdown {
+  @apply text-lg leading-relaxed;
+  color: #0F172A; /* Forces Navy Blue Text */
 }
 
-/* Changes standard bullets to Orange Diamonds */
+/* Fixes the Header (Pillars) */
+.markdown h2, .markdown h3 {
+  @apply font-bold mt-12 mb-4;
+  color: #0F172A;
+  text-decoration: underline;
+  text-decoration-color: #F97316;
+  text-underline-offset: 8px;
+}
+
+/* Fixes the Bullets to be Orange Diamonds */
 .markdown ul {
+  @apply my-6 space-y-3;
   list-style: none;
   padding-left: 1.5rem;
 }
@@ -18,4 +27,15 @@
   display: inline-block; 
   width: 1.5em;
   margin-left: -1.5em;
+}
+
+/* Fixes the Bolding */
+.markdown strong {
+  @apply font-bold;
+  color: #0F172A;
+}
+
+/* Fixes Paragraph Spacing */
+.markdown p {
+  @apply mb-6;
 }
