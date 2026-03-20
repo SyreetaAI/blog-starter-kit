@@ -1,19 +1,14 @@
 import Container from "@/app/_components/container";
 import { Intro } from "@/app/_components/intro";
 import { PostBody } from "@/app/_components/post-body";
+import LeakageCard from "@/app/_components/leakage-card"; // Import the new card
 import { getAllPosts } from "@/lib/api";
-import { notFound } from "next/navigation";
 import markdownToHtml from "@/lib/markdownToHtml";
 
 export default async function Index() {
   const allPosts = getAllPosts();
-  
-  // This finds your specific advisory post
   const post = allPosts.find((p) => p.slug === "advisory-services");
-
-  if (!post) {
-    return notFound();
-  }
+  if (!post) return null;
 
   const content = await markdownToHtml(post.content || "");
 
@@ -21,12 +16,15 @@ export default async function Index() {
     <main>
       <Container>
         <Intro />
-        <article className="mb-32">
-          <h1 className="text-4xl md:text-6xl font-bold tracking-tighter leading-tight mb-12 text-center md:text-left">
-            {post.title}
-          </h1>
-          <PostBody content={content} />
-        </article>
+        <div className="flex flex-col lg:flex-row gap-12 items-start mt-12">
+          <div className="lg:w-1/2">
+             <LeakageCard /> {/* This is your Framer-style card */}
+          </div>
+          <div className="lg:w-1/2">
+            <h1 className="text-4xl font-bold mb-8" style={{ color: '#0F172A' }}>{post.title}</h1>
+            <PostBody content={content} />
+          </div>
+        </div>
       </Container>
     </main>
   );
