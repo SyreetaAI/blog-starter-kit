@@ -41,4 +41,4 @@ Data clarity drives strategic momentum. Your data holds the roadmap to margin ex
 ### **Let Me Advise Your Strategy**
 Syreeta.ai - I use AI-driven protocols to surface latent spend leakage, followed by strategic procurement advisory to architect a resilient, EBITDA-positive procurement ecosystem.
 
-**[Connect on LinkedIn](https://linkedin.com/in/syreetacraig)** | **[Schedule a Discovery Call]("https://calendar.google.com/calendar/u/0/appointments/import Container from "./container";)**
+**[Connect on LinkedIn](https://linkedin.com/in/syreetacraig)** | **[Schedule a Discovery Call](https://calendar.google.com/calendar/u/0/appointments/https://calendar.google.com/appointments/schedules/AcZssZ34210gI9XZE7viIoL-HVrLMdOY0G_BSNkAb8VhmlxsNWqJv3cxBJoRrJeTJ-4rf1glFdO-jnjq
