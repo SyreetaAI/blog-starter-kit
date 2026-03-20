@@ -25,14 +25,14 @@ export default function Footer() {
               className="py-3 px-6 rounded-md font-bold text-center transition-transform hover:scale-105"
               style={{ backgroundColor: '#F97316', color: '#0F172A' }}
             >
-              Download Executive Resume
+              Download Professional Credentials
             </a>
             <a
               href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ34210gI9XZE7viIoL-HVrLMdOY0G_BSNkAb8VhmlxsNWqJv3cxBJoRrJeTJ-4rf1glFdO-jnjq"
               className="py-3 px-6 rounded-md font-bold text-center transition-transform hover:scale-105 shadow-lg"
               style={{ backgroundColor: '#F97316', color: '#0F172A' }}
             >
-              Book Discovery Call
+              EXPLORE ALIGNMENT
             </a>
           </div>
         </div>
