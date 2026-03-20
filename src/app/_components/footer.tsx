@@ -6,9 +6,9 @@ export default function Footer() {
       <Container>
         <div className="py-20 flex flex-col lg:flex-row items-center justify-between">
           <div className="flex items-center mb-10 lg:mb-0">
-             {/* HappyHealthyWealthyLoved.jpg */}
+             {/* My Photo */}
             <img 
-              src="/assets/blog/authors/syreeta.jpg" 
+              src="/assets/blog/authors/HappyHealthyWealthyLoved.jpg" 
               alt="Syreeta Craig" 
               className="w-20 h-20 rounded-full mr-6 border-2" 
               style={{ borderColor: '#F97316' }}
