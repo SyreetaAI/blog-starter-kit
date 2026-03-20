@@ -1,6 +1,6 @@
 import Container from "@/app/_components/container";
 
-export function Footer() {
+export default function Footer() {
   return (
     <footer className="bg-[#0F172A] border-t border-[#F97316]">
       <Container>
