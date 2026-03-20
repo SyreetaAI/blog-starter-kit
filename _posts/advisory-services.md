@@ -1,5 +1,5 @@
 ---
-title: 'The <span style="color: #0F172A; font-weight: bold;">Syreeta</span><span style="color: #F97316; font-weight: bold;">.ai</span> Advisory Framework'
+title: 'Syreeta.ai Advisory Framework'
 excerpt: 'Spend Intelligence Meets Advisory.'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2026-03-20'
