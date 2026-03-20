@@ -47,7 +47,10 @@ export default function Footer() {
         </div>
 
         <div className="pb-10 flex justify-between items-center text-xs text-slate-400 font-medium">
-          <p>© 2026 <b style="color: #0F172A;">Syreeta</b><b style="color: #F97316;">.ai</b> | All Rights Reserved</p>
+          <div>
+            © 2026 <span style={{ color: '#0F172A', fontWeight: 'bold' }}>Syreeta</span>
+            <span style={{ color: '#F97316', fontWeight: 'bold' }}>.ai</span> | All Rights Reserved
+          </div>
           <p>Architecting Agentic Governance</p>
         </div>
       </Container>
