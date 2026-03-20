@@ -9,24 +9,26 @@ export default function Footer() {
             <h3 className="text-3xl font-bold" style={{ color: '#0F172A' }}>
               Syreeta<span style={{ color: '#F97316' }}>.ai</span>
             </h3>
-            <p className="text-slate-500 font-medium">Forensic Capital Integrity & Agentic Governance</p>
+            <p className="text-slate-500 font-medium italic">Procurement Advisory Services</p>
           </div>
 
           <div className="flex flex-col sm:flex-row gap-4">
             <a
-              href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ34210gI9XZE7viIoL-HVrLMdOY0G_BSNkAb8VhmlxsNWqJv3cxBJoRrJeTJ-4rf1glFdO-jnjq"
+              href="/assets/resume/Syreeta_Craig_Resume.pdf" 
               target="_blank"
-              rel="noopener noreferrer"
-              className="px-8 py-4 rounded-lg font-bold text-white transition-all hover:opacity-90 shadow-md"
+              className="px-8 py-4 rounded-lg font-bold border-2 transition-all hover:bg-slate-100 text-center"
+              style={{ borderColor: '#0F172A', color: '#0F172A' }}
+            >
+              Download Resume
+            </a>
+            <a
+              href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ34210gI9XZE7viIoL-HVrLMdOY0G_BSNkAb8VhmlxsNWqJv3cxBJoRrJeTJ-4rf1glFdO-jnjq"
+              className="px-8 py-4 rounded-lg font-bold text-white transition-all hover:opacity-90 shadow-lg text-center"
               style={{ backgroundColor: '#F97316' }}
             >
-              Schedule Strategy Audit
+              Book Discovery Call
             </a>
           </div>
-        </div>
-        <div className="pb-10 text-xs text-slate-400">
-           © 2026 <span style={{ color: '#0F172A', fontWeight: 'bold' }}>Syreeta</span>
-           <span style={{ color: '#F97316', fontWeight: 'bold' }}>.ai</span> | Built for the Future of Procurement.
         </div>
       </Container>
     </footer>
