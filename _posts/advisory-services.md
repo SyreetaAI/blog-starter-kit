@@ -9,16 +9,11 @@ author:
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
-<div style="font-size: 2rem; font-weight: 800; margin-top: 20px; margin-bottom: 5px;">
-  <span style="color: #0F172A;">Syreeta</span><span style="color: #F97316;">.ai</span> <span style="color: #0F172A;">Advisory Framework</span>
-</div>
+<b style="color: #0F172A;">Protect Your Margin. </b><b style="color: #F97316;">Automate Your Governance</b>
 
-<div style="font-size: 1.4rem; font-weight: 800; margin-bottom: 25px; line-height: 1.2;">
-  <span style="color: #0F172A;">Protect Your Margin.</span> 
-  <span style="color: #F97316;">Automate Your Governance.</span>
-</div>
+<b style="color: #0F172A;">Syreeta</b><b style="color: #F97316;">.ai</b> provides the architectural blueprint for organizations to move from reactive buying to **proactive, agentic governance.** With a track record of managing **multi-billion global spend portfolios**, I partner with organizations to bridge the gap between legacy systems and autonomous execution.
 
-<span style="color: #0F172A; font-weight: 900;">Syreeta</span><span style="color: #F97316; font-weight: 900;">.ai</span> provides the architectural blueprint for organizations to move from reactive buying to **proactive, agentic governance.** With a track record of managing **multi-billion global spend portfolios**, I partner with organizations to bridge the gap between legacy systems and autonomous execution.
+<div style="margin-top: -20px;">
 
 ---
 
