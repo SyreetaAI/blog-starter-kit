@@ -6,7 +6,7 @@ export default function Footer() {
       <Container>
         <div className="py-20 flex flex-col lg:flex-row items-center justify-between">
           <div className="flex items-center mb-10 lg:mb-0">
-             {/* Your Photo */}
+             {/* HappyHealthyWealthyLoved.jpg */}
             <img 
               src="/assets/blog/authors/syreeta.jpg" 
               alt="Syreeta Craig" 
@@ -27,7 +27,7 @@ export default function Footer() {
               Connect on LinkedIn
             </a>
             <a
-              href="YOUR_GOOGLE_CALENDAR_LINK"
+              href="https://calendar.google.com/appointments/schedules/AcZssZ34210gI9XZE7viIoL-HVrLMdOY0G_BSNkAb8VhmlxsNWqJv3cxBJoRrJeTJ-4rf1glFdO-jnjq"
               className="px-8 py-3 font-bold text-white transition-opacity hover:opacity-90 text-center"
               style={{ backgroundColor: '#F97316' }}
             >
