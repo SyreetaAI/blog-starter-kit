@@ -15,8 +15,6 @@ ogImage:
 
 <div style="margin-top: -20px;">
 
----
-
 ### Pillar I: Agentic Governance
 I empower organizations to move from manual, high-friction intake to autonomous, policy-grounded procurement. By embedding AI-enablement into the procurement core, this will ensure 100% compliance and eliminate spend leakage.
 * **Policy Grounding:** Mapping corporate policies to autonomous agents.
