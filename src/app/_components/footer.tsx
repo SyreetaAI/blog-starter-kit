@@ -8,12 +8,11 @@ export default function Footer() {
           
           {/* Left Side: Photo & Brand */}
           <div className="flex items-center">
-            <div className="w-24 h-24 rounded-full overflow-hidden border-4 border-[#F97316] shadow-lg mr-6">
+            <div className="w-24 h-24 rounded-full overflow-hidden border-4 border-[#F97316] shadow-lg mr-6 bg-[#0F172A]">
               <img 
                 src="/assets/blog/authors/syreeta.jpg" 
                 alt="Syreeta Craig" 
                 className="w-full h-full object-cover"
-                onError={(e) => { e.currentTarget.src = 'https://ui-avatars.com/api/?name=Syreeta+Craig&background=0F172A&color=fff'; }}
               />
             </div>
             <div>
@@ -29,13 +28,16 @@ export default function Footer() {
             <a
               href="https://linkedin.com/in/syreetacraig"
               target="_blank"
+              rel="noopener noreferrer"
               className="px-8 py-4 rounded-lg font-bold text-white transition-all hover:scale-105 text-center shadow-md"
               style={{ backgroundColor: '#F97316' }}
             >
               Connect on LinkedIn
             </a>
             <a
-              href="YOUR_GOOGLE_CALENDAR_LINK"
+              href="https://calendar.google.com/calendar/u/0/appointments/YOUR_LINK_HERE"
+              target="_blank"
+              rel="noopener noreferrer"
               className="px-8 py-4 rounded-lg font-bold text-white transition-all hover:scale-105 text-center shadow-md"
               style={{ backgroundColor: '#0F172A' }}
             >
@@ -45,8 +47,8 @@ export default function Footer() {
         </div>
 
         <div className="pb-10 flex justify-between items-center text-xs text-slate-400 font-medium">
-          <p>© 2026 Syreeta.ai | All Rights Reserved</p>
-          <p>Built for Agentic Governance</p>
+          <p>© 2026 <b style="color: #0F172A;">Syreeta</b><b style="color: #F97316;">.ai</b> | All Rights Reserved</p>
+          <p>Architecting Agentic Governance</p>
         </div>
       </Container>
     </footer>
