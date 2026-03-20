@@ -9,7 +9,6 @@ author:
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
-
 <div style="font-size: 2rem; font-weight: 800; margin-top: 20px; margin-bottom: 5px;">
   <span style="color: #0F172A;">Syreeta</span><span style="color: #F97316;">.ai</span> <span style="color: #0F172A;">Advisory Framework</span>
 </div>
