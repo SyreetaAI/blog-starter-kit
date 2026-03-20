@@ -27,7 +27,7 @@ export function Intro() {
             className="px-5 py-2 rounded font-bold text-xs md:text-sm shadow-md transition-transform hover:scale-105"
             style={{ backgroundColor: '#F97316', color: '#0F172A' }}
           >
-            BOOK DISCOVERY CALL
+            EXPLORE ALIGNMENT
           </a>
         </div>
       </div>
