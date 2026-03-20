@@ -1,3 +1,14 @@
+/* This hides the duplicate title that the starter template forces in */
+h1.text-5xl, h1.text-6xl {
+  display: none !important;
+}
+
+.markdown {
+  @apply text-lg leading-relaxed;
+  color: #0F172A;
+}
+/* ... keep the rest of your CSS below this ... */
+
 .markdown {
   @apply text-lg leading-relaxed;
   color: #0F172A; /* Oxford Navy */
