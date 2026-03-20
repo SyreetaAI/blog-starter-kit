@@ -1,70 +1,51 @@
-/* Core Layout Styles for the Blog */
 .markdown {
   @apply text-lg leading-relaxed;
-  color: #0F172A; /* Your Oxford Navy */
+  color: #0F172A; /* Oxford Navy */
 }
 
-.markdown p,
-.markdown ul,
-.markdown ol,
-.markdown blockquote {
-  @apply my-6;
+.markdown p {
+  @apply mb-6;
 }
 
-/* Titles: Orange Underline & Navy Text */
+/* Main Title Style (No Underline) */
 .markdown h2 {
-  @apply text-3xl mt-12 mb-4 font-bold;
+  @apply font-bold mt-8 mb-2 text-3xl flex items-center gap-1;
+  color: #0F172A;
+  text-decoration: none;
+}
+
+/* Pillar Titles Style (With Orange Underline) */
+.markdown h3 {
+  @apply text-2xl mt-12 mb-4 font-bold inline-block;
   color: #0F172A;
   text-decoration: underline;
   text-decoration-color: #F97316;
   text-underline-offset: 8px;
 }
 
-.markdown h3 {
-  @apply text-2xl mt-8 mb-4 font-bold;
-  color: #0F172A;
-  text-decoration: underline;
-  text-decoration-color: #F97316;
-  text-underline-offset: 6px;
-}
-
-/* The "Executive" Orange Diamond Bullets */
+/* Automatic Orange Diamond Bullets */
 .markdown ul {
+  @apply my-6 space-y-3;
   list-style: none;
   padding-left: 0;
 }
 
-.markdown ul li {
-  position: relative;
-  padding-left: 1.5rem;
-  margin-bottom: 0.75rem;
+.markdown li {
+  @apply relative pl-7;
   line-height: 1.6;
 }
 
-.markdown ul li::before {
-  content: "◆"; 
-  position: absolute;
-  left: 0;
-  color: #F97316; /* Your Vivid Orange */
-  font-weight: bold;
+.markdown li::before {
+  content: "◆";
+  @apply absolute left-0 font-bold;
+  color: #F97316;
 }
 
-/* Bold Text Branding */
 .markdown strong {
-  @apply font-bold;
+  @apply font-extrabold;
   color: #0F172A;
 }
 
-/* Horizontal Rule Styling */
 .markdown hr {
-  @apply my-12;
-  border: 0;
-  border-top: 1px solid #e2e8f0;
-}
-
-/* Blockquote for high-impact statements */
-.markdown blockquote {
-  @apply pl-6 italic border-l-4;
-  border-color: #F97316;
-  color: #64748B;
+  @apply my-10 border-t border-slate-200;
 }
