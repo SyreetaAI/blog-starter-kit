@@ -10,21 +10,24 @@ export function Intro() {
             <h1 className="text-xl md:text-2xl font-bold leading-none" style={{ color: '#0F172A' }}>
               Syreeta<span style={{ color: '#F97316' }}>.ai</span>
             </h1>
+            <p className="text-[10px] md:text-xs font-bold uppercase tracking-widest text-slate-500 mt-1">
+              Procurement Advisory Services: From Insight to Impact
+            </p>
           </div>
         </div>
 
         <div className="flex items-center gap-4 mt-3 md:mt-0">
           <a href="https://linkedin.com/in/syreetacraig" target="_blank" rel="noopener noreferrer">
-            <svg className="w-6 h-6 fill-[#0077b5] hover:opacity-80 transition-opacity" viewBox="0 0 24 24">
+            <svg className="w-6 h-6 fill-[#0077b5]" viewBox="0 0 24 24">
               <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
             </svg>
           </a>
           <a 
             href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ34210gI9XZE7viIoL-HVrLMdOY0G_BSNkAb8VhmlxsNWqJv3cxBJoRrJeTJ-4rf1glFdO-jnjq"
-            className="px-4 py-2 rounded font-bold text-white text-sm shadow-md"
-            style={{ backgroundColor: '#0F172A' }}
+            className="px-5 py-2 rounded font-bold text-xs md:text-sm shadow-md transition-transform hover:scale-105"
+            style={{ backgroundColor: '#F97316', color: '#0F172A' }}
           >
-            Book Discovery Call
+            BOOK DISCOVERY CALL
           </a>
         </div>
       </div>
