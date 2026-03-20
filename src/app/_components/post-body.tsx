@@ -9,8 +9,9 @@ export function PostBody({ content }: Props) {
     <div className="max-w-2xl mx-auto">
       <div
         className={markdownStyles["markdown"]}
-        // We add 'mb-0' or 'pb-4' here to kill the extra space
-        style={{ marginBottom: '0px', paddingBottom: '20px' }} 
+        // pb-0 and mb-0 remove the bottom spacing of the blog container
+        // -mt-4 pulls the content slightly higher if needed
+        className={`${markdownStyles["markdown"]} pb-0 mb-[-60px]`}
         dangerouslySetInnerHTML={{ __html: content }}
       />
     </div>
