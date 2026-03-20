@@ -10,9 +10,9 @@ ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
 
-<h2 style="margin-bottom: 5px; margin-top: 10px;">
+<div style="font-size: 2rem; font-weight: 800; margin-top: 20px; margin-bottom: 5px;">
   <span style="color: #0F172A;">Syreeta</span><span style="color: #F97316;">.ai</span> <span style="color: #0F172A;">Advisory Framework</span>
-</h2>
+</div>
 
 <div style="font-size: 1.4rem; font-weight: 800; margin-bottom: 25px; line-height: 1.2;">
   <span style="color: #0F172A;">Protect Your Margin.</span> 
@@ -21,7 +21,7 @@ ogImage:
 
 <span style="color: #0F172A; font-weight: 900;">Syreeta</span><span style="color: #F97316; font-weight: 900;">.ai</span> provides the architectural blueprint for organizations to move from reactive buying to **proactive, agentic governance.** With a track record of managing **multi-billion global spend portfolios**, I partner with organizations to bridge the gap between legacy systems and autonomous execution.
 
-<div style="margin-top: -20px;">
+---
 
 ### Pillar I: Agentic Governance
 I empower organizations to move from manual, high-friction intake to autonomous, policy-grounded procurement. By embedding AI-enablement into the procurement core, this will ensure 100% compliance and eliminate spend leakage.
@@ -41,12 +41,10 @@ Beyond the historical view provided by standard ERPs, Forensic Capital Integrity
 * **Source-to-Pay (S2P) Optimization:** Streamlining the procurement technical stack (modern and legacy) for efficiency.
 * **Predictive Insights:** Moving from retrospective reporting to forward-leaning spend intelligence.
 
-</div>
-
 ---
 
-<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <span style="font-size: 1.75rem; font-weight: 900;">
+<div style="text-align: center; margin-top: 30px; margin-bottom: 20px;">
+  <div style="font-size: 1.75rem; font-weight: 900;">
     <span style="color: #0F172A;">Spend Intelligence</span> <span style="color: #F97316;">With Intent</span>
-  </span>
+  </div>
 </div>
