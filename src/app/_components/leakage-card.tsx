@@ -9,8 +9,8 @@ export default function LeakageCard() {
     return (
         <div style={containerStyle}>
             <div style={headerStyle}>
-                <span style={titleStyle}>Leakage Exposure Summary Report</span>
-                <span style={badgeStyle}>The Anatomy of Invisible Leakage</span>
+                <span style={titleStyle}>The Anatomy of Invisible Leakage</span>
+                <span style={badgeStyle}>Audit Results</span>
             </div>
 
             {metrics.map((m) => (
